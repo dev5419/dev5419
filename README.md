@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech_Software_Engineering-PICT_Pune-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.83_/_10-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="CGPA" />
+  <img src="https://img.shields.io/badge/CGPA-9_/_10-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="CGPA" />
   &nbsp;
   <img src="https://img.shields.io/badge/Batch-2024–2028-5B21B6?style=for-the-badge&logo=calendar&logoColor=white" alt="Batch" />
 </p>
@@ -278,7 +278,7 @@ Served as an event coordinator for PictoFest, the flagship cultural event under 
 | 📉 **60% Effort Reduction** | Automated suspicious-activity flagging cut manual compliance review effort by 60% |
 | 📈 **35% Chatbot Improvement** | Relevance of AI chatbot recommendations improved by 35% measured via user feedback |
 | 👥 **300+ Participants Managed** | Coordinated large-scale onboarding operations at 98% accuracy with 25% faster check-in |
-| ⭐ **8.83 / 10 CGPA** | Sustained high academic performance across core SE, DSA, OOP, and Database coursework |
+| ⭐ **9 / 10 CGPA** | Sustained high academic performance across core SE, DSA, OOP, and Database coursework |
 | 🌾 **Multilingual AI Alerts** | Delivered automated crop-risk advisory in multiple Indian languages via RAG + LLM pipeline |
 
 </div>
