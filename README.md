@@ -225,30 +225,6 @@ Built a premium AI-powered fraud detection system that pairs high-performance ri
 
 ---
 
-## ◈ Leadership Experience
-
-<table align="center">
-<tr>
-<td><b>PictoFest Coordinator</b> — <i>Pictoreal, PICT</i></td>
-<td align="right"><code>Sep 2024 – Jan 2025</code></td>
-</tr>
-</table>
-
-Served as an event coordinator for PictoFest, the flagship cultural event under Pictoreal at PICT, managing end-to-end participant operations across a multi-session format.
-
-- Coordinated registration and onboarding for **300+ participants** across multiple concurrent event sessions, reducing average check-in time by **25%** through process optimisation
-- Partnered with cross-functional organising teams to manage event logistics, scheduling, and real-time escalations — maintaining **98% operational accuracy** during peak engagement
-- Led a multi-channel attendee communications strategy across email, SMS, and portal updates, reducing support request volume by **20%** and driving participant satisfaction to **4.6 / 5.0**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Event_Management-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cross_Functional_Coordination-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Operations_Optimisation-5B21B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stakeholder_Communication-4C1D95?style=flat-square" />
-</p>
-
----
-
 ## ◈ Achievements
 
 <div align="center">
@@ -294,14 +270,6 @@ Served as an event coordinator for PictoFest, the flagship cultural event under 
 <p align="center">
   <a href="https://leetcode.com/dev5419">
     <img src="https://img.shields.io/badge/LeetCode-dev5419-7C3AED?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/devsarode7">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-devsarode7-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/devsarode7">
-    <img src="https://img.shields.io/badge/HackerRank-devsarode7-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=2EC866" />
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/dev5419">
