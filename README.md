@@ -70,8 +70,7 @@ I bring a **product engineering mindset** to every codebase — thinking about u
 ✦  Software Engineering Internships (Summer / Winter)
 ✦  AI / ML Engineering Internship Roles
 ✦  Full-Stack / Backend Engineering Internships
-✦  Research Collaborations in Computer Vision & NLP
-✦  Open-Source Contributions in ML Infrastructure
+✦  Open-Source Contributions
 ```
 
 ---
@@ -114,23 +113,6 @@ I bring a **product engineering mindset** to every codebase — thinking about u
 </p>
 
 ---
-
-## ◈ AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **Computer Vision** | ████████████ Expert | CNN, ViT, multi-spectral remote sensing, NDVI/NDWI feature engineering, Sentinel-2 satellite data |
-| **Supervised Classification** | ████████████ Expert | Gradient boosting, ensemble methods, imbalanced class handling, AUC/F1 optimisation |
-| **LLM Applications** | ██████████░░ Advanced | LangChain, RAG pipelines, multilingual advisory generation, prompt engineering |
-| **NLP & Text Processing** | ██████████░░ Advanced | Tokenisation, embedding, text classification, chatbot development |
-| **Recommendation Systems** | ████████░░░░ Proficient | Clustering + classification hybrid models, user-interaction signal processing |
-| **ML Infrastructure** | ████████░░░░ Proficient | End-to-end pipelines, model serialisation, inference APIs, evaluation frameworks |
-| **Deep Learning Fundamentals** | ████████████ Expert | Backpropagation, regularisation (L1/L2), bias-variance tradeoff, optimisers |
-| **Feature Engineering** | ████████████ Expert | Temporal, categorical, behavioural, and spectral feature design |
-
-</div>
 
 ---
 
@@ -392,7 +374,6 @@ Exploring:
 
 Open_To:
   - Software Engineering Internships (SDE / AI / Backend)
-  - Research collaborations in Computer Vision and NLP
   - Open-source contributions in ML infrastructure and developer tooling
 ```
 
