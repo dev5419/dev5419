@@ -279,28 +279,6 @@ Built a premium AI-powered fraud detection system that pairs high-performance ri
 
 ---
 
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev5419&show_icons=true&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&icon_color=9B59F7&title_color=A78BFA&text_color=C4B5FD&ring_color=7C3AED&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev5419&layout=compact&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&title_color=A78BFA&text_color=C4B5FD&hide_border=false&langs_count=8" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev5419&theme=tokyonight&background=0D0D1A&border=7C3AED&ring=9B59F7&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6&sideNums=A78BFA&currStreakNum=A78BFA" alt="GitHub Streak" />
-</p>
-
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev5419&theme=darkhub&no-frame=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
-</p>
-
----
-
 ## ◈ Contribution Activity
 
 <p align="center">
